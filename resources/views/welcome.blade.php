@@ -79,8 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Oauth-Client
                 </div>
+                <p>Please select "get token". This will only work if you have a Oauth-server running :-)</p>
+                <p>If you don't know what to do, please visit <a href="https://github.com/jesper0438/HZoauthClient/wiki">our wiki</a></p>
+                <br>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
